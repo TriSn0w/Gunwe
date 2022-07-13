@@ -1,0 +1,1 @@
+# `/resources` - The browsers resources
