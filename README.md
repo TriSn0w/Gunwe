@@ -1,9 +1,6 @@
 # ![Gunwe - A simple alternative to Chrome or Edge](https://cdn.discordapp.com/attachments/924767149258588171/995562116025159740/logo.png)
 Gunwe Browser is a simple and light-weight alternative to browsers like Chrome or Edge, and uses less than 100mb of RAM.
-### ![](https://cdn.discordapp.com/attachments/924767149258588171/995562116025159740/logo.png)
-# Gunwe - A simple alternative to Chrome or Edge
-The Gunwe Browser is a simple and light-weight alternative to browsers like Chrome or Edge, and uses less than 100mb of RAM.
-
+### ![](Screenshot%202022-07-13%20013859.png)
 # Features
 - Make and delete multiple tabs
 - Saving pages (as html)
