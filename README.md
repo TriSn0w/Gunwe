@@ -1,34 +1,31 @@
-# PyQt5 Simple Web Browser
+# ![Gunwe - A simple alternative to Chrome or Edge](https://cdn.discordapp.com/attachments/924767149258588171/995562116025159740/logo.png)
+Gunwe Browser is a simple and light-weight alternative to browsers like Chrome or Edge, and uses less than 100mb of RAM.
+### ![](https://cdn.discordapp.com/attachments/924767149258588171/995562116025159740/logo.png)
+# Gunwe - A simple alternative to Chrome or Edge
+The Gunwe Browser is a simple and light-weight alternative to browsers like Chrome or Edge, and uses less than 100mb of RAM.
 
-![Screenshot](./browser_screenshot.jpg)
+# Features
+- Make and delete multiple tabs
+- Saving pages (as html)
+- Printing
+- Home page configurations
+And much more!
 
-A tabbed browser created by me with Python, PyQt5 module with a bunch of features.
+# Installing and Running
+**(Before even attempting to run it, make sure you have Python 3. This wont run without it)**
 
-Tested on:  
-Python version: Python 3.9 (64 bit)  
-PyQt5 version: 5.15.4
+### This is still a work in progress, but if you want to install it, here are the steps:
+1. Download the zip included in the message and unzip it in whatever place you want
+2. Direct to that unzipped folder.
+3. Open the `main.pyw` file
 
-### Install dependencies</h3>
+# Issues:
+- **Playing Audio and Video files.** Some websites have problems when playing audio and video files. I  will try to fix this soon.
+- **Downloading media files.** I haven't gotten downloading images and videos to work.
 
+# Contributors
+Tristan Wentworth - Creator
+[Tristan Wentworth](https://github.com/trisn0w) - Creator
 
-```
-python -m pip install -r requirements.txt
-```
-
-### Run python file
-
-```
-python main.py
-```
-
-### Some features:
-
-- Work with multiple tabs. Double click on tab bar to open a new
-- Search Google right from the address bar
-- Open local files
-- save webpages as html
-- Save as pdf
-- Print webpages
-- Copy site url to clipboard feature
-- Paste and go feature
-- Customize default search engine, startup page and new tab page
+## How do I become a contributor?
+Wanna help? You can always make a pull request. That will help me alot with this project!
