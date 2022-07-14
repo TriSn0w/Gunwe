@@ -1,1 +1,0 @@
-# `/resources/logos` - the logos 
