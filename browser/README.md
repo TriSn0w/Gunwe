@@ -1,1 +1,0 @@
-# `/browser` - The browsers source
